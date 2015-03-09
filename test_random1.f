@@ -12,7 +12,7 @@ C
         X = ABS(RANDOM(L))    
         WRITE(2,3) X
    2  CONTINUE
-   3  FORMAT(5X,F22.14)     
+   3  FORMAT(F22.14)     
       STOP
       END 
   
